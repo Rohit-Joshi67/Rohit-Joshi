@@ -235,52 +235,7 @@ Built and managed two Shopify stores end-to-end, combining store operations with
 
 <br/>
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0F0A1F&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0F0A1F&stroke=6D28D9&ring=8B5CF6&fire=A78BFA&currStreakLabel=E9D5FF" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0F0A1F&title_color=A78BFA&text_color=E9D5FF" />
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1" />
-
-</div>
-
-<br/>
-
-## 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0F0A1F&color=A78BFA&line=8B5CF6&point=E9D5FF&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+>
 
 ## 🎯 Current Focus
 
