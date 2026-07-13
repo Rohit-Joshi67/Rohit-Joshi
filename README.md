@@ -313,9 +313,9 @@ open_to:
 <div align="center">
 
 <a href="mailto:workwithrj07@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0A1F" /></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0A1F" /></a>
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0A1F" /></a>
-<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0A1F" /></a>
+<a href="https://www.linkedin.com/in/rohitjoshi-backend/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0A1F" /></a>
+<a href="https://github.com/Rohit-Joshi67"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0A1F" /></a>
+<a href="https://github.com/Rohit-Joshi67"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0A1F" /></a>
 
 </div>
 
