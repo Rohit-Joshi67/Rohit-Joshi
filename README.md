@@ -9,7 +9,7 @@
 <br/>
 
 ![Education](https://img.shields.io/badge/B.Tech-Computer_Science-6D28D9?style=flat-square&labelColor=0F0A1F)
-![Location](https://img.shields.io/badge/📍_Location-Bangalore-Karnataka-4C1D95?style=flat-square&labelColor=0F0A1F)
+![Location](https://img.shields.io/badge/📍_Location-Pune,Maharastra-4C1D95?style=flat-square&labelColor=0F0A1F)
 
 <br/>
 
