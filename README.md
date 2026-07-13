@@ -9,7 +9,7 @@
 <br/>
 
 ![Education](https://img.shields.io/badge/B.Tech-Computer_Science-6D28D9?style=flat-square&labelColor=0F0A1F)
-![Location](https://img.shields.io/badge/📍_Location-Pune,_Maharashtra-4C1D95?style=flat-square&labelColor=0F0A1F)
+![Location](https://img.shields.io/badge/📍_Location-Bangalore-Karnataka-4C1D95?style=flat-square&labelColor=0F0A1F)
 
 <br/>
 
@@ -226,9 +226,8 @@ Built and managed two Shopify stores end-to-end, combining store operations with
 
 <div align="center">
 
-<a href="https://www.hackerrank.com/your-hackerrank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-<a href="https://leetcode.com/your-leetcode"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://www.geeksforgeeks.org/user/your-gfg"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/profile/workwithrj07"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="https://neetcode.io/profile"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
 *(Replace the links above with your actual profile handles)*
 
